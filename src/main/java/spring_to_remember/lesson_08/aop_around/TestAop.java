@@ -2,11 +2,7 @@ package spring_to_remember.lesson_08.aop_around;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import spring_to_remember.lesson_08.aop_around.config.MyConfig;
-import spring_to_remember.lesson_08.aop_around.models.Student;
 import spring_to_remember.lesson_08.aop_around.service.UniLibrary;
-import spring_to_remember.lesson_08.aop_around.service.University;
-
-import java.util.List;
 
 public class TestAop {
     public static void main(String[] args) {
